@@ -5,3 +5,7 @@ rabbit
 dog - biscuit
 cat - milk
 rabbit - banana
+
+dog - bow
+cat - meow
+rabbit - chuchu
